@@ -3,14 +3,15 @@ Learning Applied Cryptography &amp; ZK proof
 
 ## Covered topics
 
+### Cryptography
+
 - RSA
 - DLP
 - Elliptic Curve Cryptography
 - Hash function
 - MPC
 
-
-## ZK proof
+### ZK proof
 
 - Bulletproofs
   - Halo
@@ -20,13 +21,13 @@ Learning Applied Cryptography &amp; ZK proof
   - Marlin
   - PLONK
 
-## Applied ZK proof
+### Applied ZK proof
 
 - Commitment-nullifier scheme
 - Socialist millionaire protocol
 - zk-Rollups
 
-## Tooling
+### Tooling
 
 - Circom
 - Zokrates
